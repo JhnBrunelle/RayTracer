@@ -1,0 +1,25 @@
+group 'com.johnb.raytracer'
+version '1.0'
+
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly "org.projectlombok:lombok:1.16.16"
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'Runner'
+        )
+    }
+}
+
+mainClassName = 'Runner'
