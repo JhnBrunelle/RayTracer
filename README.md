@@ -2,7 +2,7 @@
 
 ![](/output.png)
 
-This was created as a learning tool, to better grasp an understanding of RayTracing, ImagePlanes,
+This was created as a learning experience, to better grasp an understanding of RayTracing, ImagePlanes,
 Phong's reflection model, anti-aliasing and other aspects of 3D Modeling/Rendering. The RayTracer currently features accurate lighting, texture support,anti-aliasing, and is able to output the ImagePlane of a 3D scene to a png file. 
 
 
