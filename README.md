@@ -2,9 +2,8 @@
 
 ![](/output.png)
 
-This is my Ray Tracer, implemented in Java. This was created as a learning tool, to grasp a better understanding of RayTracing, ImagePlanes,
-Phong's reflection model, Anti-aliasing and other aspects of 3D Modeling/Rendering. The RayTracer currently features accurate lighting, texture support,
-and anti-aliasing, and is able to output the ImagePlane of a 3D scene to a png file. 
+This was created as a learning tool, to better grasp an understanding of RayTracing, ImagePlanes,
+Phong's reflection model, anti-aliasing and other aspects of 3D Modeling/Rendering. The RayTracer currently features accurate lighting, texture support,anti-aliasing, and is able to output the ImagePlane of a 3D scene to a png file. 
 
 
 ## Dependencies
